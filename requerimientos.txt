@@ -1,7 +1,8 @@
-pip install drf-yasg
+drf-yasg
 django
 django-ckeditor
-pillow pylint
+pillow
+pylint
 pylint-django
 djangorestframework-simplejwt
-pip install psycopg2-binary
+psycopg2-binary
